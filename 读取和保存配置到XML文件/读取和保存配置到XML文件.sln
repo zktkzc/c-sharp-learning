@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "读取和保存配置到XML文件", "读取和保存配置到XML文件\读取和保存配置到XML文件.csproj", "{6F974FBD-850A-4020-BB5C-B6849030856E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F974FBD-850A-4020-BB5C-B6849030856E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F974FBD-850A-4020-BB5C-B6849030856E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F974FBD-850A-4020-BB5C-B6849030856E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F974FBD-850A-4020-BB5C-B6849030856E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9648B282-4183-4B40-B173-FD93FB57FFCB}
+	EndGlobalSection
+EndGlobal
